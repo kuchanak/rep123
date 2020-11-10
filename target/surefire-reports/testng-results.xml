@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="117757" started-at="2020-11-09T16:45:51 IST" finished-at="2020-11-09T16:47:48 IST">
+    <groups>
+    </groups>
+    <test name="Advshop" duration-ms="117757" started-at="2020-11-09T16:45:51 IST" finished-at="2020-11-09T16:47:48 IST">
+      <class name="uitesting.Popularlinkstest">
+        <test-method status="PASS" signature="esetup()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="esetup" is-config="true" duration-ms="655" started-at="2020-11-09T16:45:51 IST" finished-at="2020-11-09T16:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- esetup -->
+        <test-method status="PASS" signature="invokebro()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="invokebro" is-config="true" duration-ms="11911" started-at="2020-11-09T16:45:51 IST" finished-at="2020-11-09T16:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebro -->
+        <test-method status="PASS" signature="alaptop()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="alaptop" duration-ms="34574" started-at="2020-11-09T16:46:03 IST" finished-at="2020-11-09T16:46:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alaptop -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="closeb" is-config="true" duration-ms="2251" started-at="2020-11-09T16:46:38 IST" finished-at="2020-11-09T16:46:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method status="PASS" signature="invokebro()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="invokebro" is-config="true" duration-ms="9397" started-at="2020-11-09T16:46:40 IST" finished-at="2020-11-09T16:46:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebro -->
+        <test-method status="PASS" signature="spekr()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="spekr" duration-ms="22493" started-at="2020-11-09T16:46:50 IST" finished-at="2020-11-09T16:47:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spekr -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="closeb" is-config="true" duration-ms="1899" started-at="2020-11-09T16:47:12 IST" finished-at="2020-11-09T16:47:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method status="PASS" signature="invokebro()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="invokebro" is-config="true" duration-ms="10174" started-at="2020-11-09T16:47:14 IST" finished-at="2020-11-09T16:47:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebro -->
+        <test-method status="PASS" signature="tablet()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="tablet" duration-ms="22325" started-at="2020-11-09T16:47:24 IST" finished-at="2020-11-09T16:47:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablet -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@91161c7]" name="closeb" is-config="true" duration-ms="2027" started-at="2020-11-09T16:47:46 IST" finished-at="2020-11-09T16:47:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+      </class> <!-- uitesting.Popularlinkstest -->
+    </test> <!-- Advshop -->
+  </suite> <!-- Suite1 -->
+</testng-results>

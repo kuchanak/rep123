@@ -1,0 +1,6 @@
+commonmethods\Exceldata.class
+commonmethods\Extentreport.class
+commonmethods\Propfile.class
+testbase\Browser.class
+objrep\Homepage.class
+commonmethods\Schot.class

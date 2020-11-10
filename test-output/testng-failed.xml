@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="uitesting.Popularlinkstest">
+        <methods>
+          <include name="alaptop"/>
+          <include name="spekr"/>
+          <include name="tablet"/>
+          <include name="invokebro"/>
+          <include name="closeb"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- uitesting.Popularlinkstest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
